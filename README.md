@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amals007
+- 👋 Hi, I’m Amal S
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning MEA(R)N Stack Web Development
 - 📫 How to reach me amalskorani007@gmail.com
