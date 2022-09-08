@@ -1,4 +1,3 @@
-<img  src="https://i.im.ge/2022/07/10/upyuZ4.png">
 <h3 align="center">I am a passionate Full Stack developer</h3>
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
