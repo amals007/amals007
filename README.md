@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **MEARN**
-
 - 📫 How to reach me **amalskorani007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
